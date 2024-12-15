@@ -1,9 +1,6 @@
-# ONITO web application
-Frontend for ONITO web application.
+# ONITO web application frontend
 
 Core dependencies are Angular 13.3.3 and Node 12.2. Other dependencies listed in ```package.json```.
-
-# Frontend
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.3.
 
